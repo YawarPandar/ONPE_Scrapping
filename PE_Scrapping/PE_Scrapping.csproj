@@ -17,7 +17,7 @@
     <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
     <PackageReference Include="System.Data.SQLite" Version="1.0.114.3" />
-    <PackageReference Include="YPandar.Common.Funtional" Version="1.0.1" />
+    <PackageReference Include="YPandar.Common.Functional" Version="1.0.4" />
   </ItemGroup>
 
   <ItemGroup>

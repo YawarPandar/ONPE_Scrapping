@@ -3,8 +3,8 @@ using System.IO;
 using System.Net;
 using OpenQA.Selenium;
 using System.Threading;
-using CommonFuntionalMethods;
 using OpenQA.Selenium.Chrome;
+using YPandar.Common.Functional;
 
 namespace PE_Scrapping.Funciones
 {

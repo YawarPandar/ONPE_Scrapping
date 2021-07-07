@@ -3,8 +3,8 @@ using System.IO;
 using System.Linq;
 using PE_Scrapping.Tablas;
 using Newtonsoft.Json.Linq;
-using CommonFuntionalMethods;
 using PE_Scrapping.Entidades;
+using YPandar.Common.Functional;
 using System.Collections.Generic;
 
 namespace PE_Scrapping.Funciones

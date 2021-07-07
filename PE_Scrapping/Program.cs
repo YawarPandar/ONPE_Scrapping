@@ -1,6 +1,6 @@
 ﻿using System;
 using PE_Scrapping.Funciones;
-using CommonFuntionalMethods;
+using YPandar.Common.Functional;
 
 namespace PE_Scrapping
 {
